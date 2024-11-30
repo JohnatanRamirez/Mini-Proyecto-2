@@ -1,9 +1,9 @@
-.. Mini-Proyecto-2 documentation master file, created by
+.. proyecto_2 documentation master file, created by
    sphinx-quickstart.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Mini-Proyecto-2 documentation!
+proyecto_2 documentation!
 ==============================================
 
 Contents:

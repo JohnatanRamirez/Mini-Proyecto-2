@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# Mini-Proyecto-2 documentation build configuration file, created by
+# proyecto_2 documentation build configuration file, created by
 # sphinx-quickstart.
 #
 # This file is execfile()d with the current directory set to its containing dir.
@@ -41,7 +41,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Mini-Proyecto-2'
+project = u'proyecto_2'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -164,7 +164,7 @@ html_static_path = ['_static']
 # html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'Mini-Proyecto-2doc'
+htmlhelp_basename = 'Mini_proyecto_2doc'
 
 
 # -- Options for LaTeX output --------------------------------------------------
@@ -184,9 +184,9 @@ latex_elements = {
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
     ('index',
-     'Mini-Proyecto-2.tex',
-     u'Mini-Proyecto-2 Documentation',
-     u"Johnatan Ramirez", 'manual'),
+     'Mini_proyecto_2.tex',
+     u'proyecto_2 Documentation',
+     u"Luis Barrientos", 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -215,8 +215,8 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'Mini-Proyecto-2', u'Mini-Proyecto-2 Documentation',
-     [u"Johnatan Ramirez"], 1)
+    ('index', 'Mini_proyecto_2', u'proyecto_2 Documentation',
+     [u"Luis Barrientos"], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -229,9 +229,9 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    ('index', 'Mini-Proyecto-2', u'Mini-Proyecto-2 Documentation',
-     u"Johnatan Ramirez", 'Mini-Proyecto-2',
-     'Elaboración de proyecto 2.', 'Miscellaneous'),
+    ('index', 'Mini_proyecto_2', u'proyecto_2 Documentation',
+     u"Luis Barrientos", 'proyecto_2',
+     'Creacion de proyecto 2', 'Miscellaneous'),
 ]
 
 # Documents to append as an appendix to all manuals.

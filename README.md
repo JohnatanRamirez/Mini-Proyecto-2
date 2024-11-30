@@ -1,7 +1,7 @@
-Mini-Proyecto-2
+proyecto_2
 ==============================
 
-Elaboración de proyecto 2.
+Creacion de proyecto 2
 
 Project Organization
 ------------
